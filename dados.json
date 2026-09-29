@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "item": "Notebook Dell",
+    "local": "Laboratório 01",
+    "dataRegistro": "2025-02-01",
+    "valor": 3500.00,
+    "patrimonio": "PAT-00925"
+  },
+  {
+    "id": 2,
+    "item": "tv 67 polegadas",
+    "local": "Sala 04",
+    "dataRegistro": "2026-01-03",
+    "valor": 2800.00,
+    "patrimonio": "PAT-00626"
+  },
+  
+  {
+    "id": 3,
+    "item": "mouse",
+    "local": "Laboratório 05",
+    "dataRegistro": "2022-05-09",
+    "valor": 3700.00,
+    "patrimonio": "PAT-00125"
+  },
+  {
+    "id": 4,
+    "item": "monitor",
+    "local": "Sala 06",
+    "dataRegistro": "2026-09-03",
+    "valor": 28900.00,
+    "patrimonio": "PAT-00426"
+  }
+
+]
